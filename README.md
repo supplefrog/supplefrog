@@ -17,7 +17,7 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/@ligmamale7091" target="blank">
+  <a href="https://www.youtube.com/@ligmamale7091" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ligmamale7091" height="30" width="40" />
   </a>
 </p>
