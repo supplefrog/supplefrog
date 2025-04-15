@@ -2,9 +2,9 @@
 <h3 align="center">A passionate dude</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supplefrog&label=Profile%20views&color=0e75b6&style=flat" alt="supplefrog" width="48%">
+  <img src="https://komarev.com/ghpvc/?username=supplefrog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images.jpeg" alt="Ge's Image" width="48%">
+  <img src="images.jpeg" alt="Ge's Image">
 </p>
 
 <p align="justify">
