@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/c/@ligmamale7091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ligmamale7091" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="supplefrog" />
+<p style="text-align: justify;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="supplefrog" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="supplefrog" /></p>
 
 ###
