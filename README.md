@@ -23,8 +23,8 @@
 </p>
 
 <p align="justfiy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="lang stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="streak stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="lang stats">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="streak stats">
 </p>
 
 <br clear="both">
