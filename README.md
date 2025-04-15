@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ge</h1>
 <h3 align="center">A passionate dude</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supplefrog&label=Profile%20views&color=0e75b6&style=flat" alt="supplefrog" /> 
-  <img src="images.jpeg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supplefrog&label=Profile%20views&color=0e75b6&style=flat" alt="supplefrog" /> </p>
+<img align="right" src="images.jpeg" /></p>
 - 🔭 I’m currently working on **my blog**
 
 - 🌱 I’m currently learning **React.js**
