@@ -22,10 +22,12 @@
   </a>
 </p>
 
-<p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="lang stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="streak stats">
-</p>
+<p align="center">
+  <p align="justify">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="lang stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="streak stats">
+  </p>
   
-<br clear="both">
-<img src="https://raw.githubusercontent.com/supplefrog/supplefrog/output/snake.svg" alt="Snake Animation" />
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/supplefrog/supplefrog/output/snake.svg" alt="Snake Animation" />
+</p>
