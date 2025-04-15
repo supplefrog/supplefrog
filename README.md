@@ -4,7 +4,7 @@
 <p align="justify">
   <img src="https://komarev.com/ghpvc/?username=supplefrog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images.jpeg" alt="Ge's Image">
+  <img align="right" src="images.jpeg" alt="Ge's Image">
 </p>
 
 <p align="justify">
@@ -23,9 +23,9 @@
 </p>
 
 <p align="justfiy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="supplefrog">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="supplefrog">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="lang stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="streak stats">
 </p>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/supplefrog/supplefrog/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/supplefrog/supplefrog/output/snake.svg" alt="Snake Animation" />
