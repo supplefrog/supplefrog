@@ -8,11 +8,11 @@
 </p>
 
 <p align="justify">
-  🔭 I’m currently working on <strong>my blog</strong><br>
-  🌱 I’m currently learning <strong>React.js</strong><br>
-  👯 I’m looking to collaborate on <strong>my projects</strong><br>
-  🤝 I’m looking for help with <strong>reverse engineering old CODs</strong><br>
-  💬 Ask me about <strong>anything</strong>
+  - 🔭 I’m currently working on <strong>my blog</strong><br>
+  - 🌱 I’m currently learning <strong>React.js</strong><br>
+  - 👯 I’m looking to collaborate on <strong>my projects</strong><br>
+  - 🤝 I’m looking for help with <strong>reverse engineering old CODs</strong><br>
+  - 💬 Ask me about <strong>anything</strong>
 </p>
 
 <h3 align="left">Socials:</h3>
