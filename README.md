@@ -22,8 +22,8 @@
   </a>
 </p>
 
-<p align="center">
-  <p align="justify">
+<p align="justify">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supplefrog&show_icons=true&locale=en&layout=compact" alt="lang stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=supplefrog&" alt="streak stats">
   </p>
