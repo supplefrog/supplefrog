@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geiiii</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">A passionate dude</h3>
 
 <p align="justify">
